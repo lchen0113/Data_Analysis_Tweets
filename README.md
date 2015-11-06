@@ -4,8 +4,7 @@ Submission for a code challenge whose target is to analyze the community Twitter
 2. Calculate the average degree of a vertex in a Twitter hashtag graph for the last 60 seconds, and update this each time a new tweet appears.
 
 
-Usage
-
+Usage:
 Tweets can be obtained through Twitter's API in JSON format. We assume a file named tweets.txt inside a directory named tweet_input.
 Two python codes are in a directory named src. tweets_cleaned.py is for clean the unwanted unicode in tweets.txt. average_degree.py is for calculating the average degree of Twitter hashtag graph for the last 60 seconds.
 The outputs are saved in a directory named tweet_output. 
