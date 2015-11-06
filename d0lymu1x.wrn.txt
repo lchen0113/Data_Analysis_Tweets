@@ -1,0 +1,18 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes to be committed:
+#	new file:   submission/run.sh
+#	new file:   submission/src/Second.py
+#	new file:   submission/src/average_degree.py
+#	new file:   submission/src/tweets_cleaned.py
+#	new file:   submission/tweet_input/tweets.txt
+#	new file:   submission/tweet_output/.ft2.txt.swp
+#	new file:   submission/tweet_output/ft1.txt
+#	new file:   submission/tweet_output/ft2.txt
+#	new file:   submission/tweet_output/ftt2.txt
+#
+
